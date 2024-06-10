@@ -2,7 +2,7 @@
 **Date: 10-06-2024**
 
 ## Question 1:
-## Display countdown from 10 t0 1 on the screen and then display Happy Independance Day on the screen.
+## Display countdown from 10 to 1 on the screen and then display Happy Independance Day on the screen.
 
 ## Constraints:
 **a. Do not use named functions**
